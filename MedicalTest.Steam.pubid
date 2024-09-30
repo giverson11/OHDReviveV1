@@ -2,9 +2,9 @@
 	"FileVersion": 1,
 	"ID": 3317685970,
 	"Title": "ReviveTest",
-	"Description": "Strivin for Revivin",
+	"Description": "Strivin for Revivin (Game=/MedicalTest/Core/BP_HDGame_AdvanceAndSecure_Med.BP_HDGame_AdvanceAndSecure_Med_C)",
 	"PreviewImgFilename": "C:/Users/Garrett/Pictures/76c85fdd25948044010cd163b54200f3.jpg",
-	"Changenote": "",
+	"Changenote": "Game mode display name is now Medical Test",
 	"Tags": [
 		"Gamemode"
 	]
